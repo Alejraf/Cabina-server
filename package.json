@@ -1,0 +1,14 @@
+{
+  "name": "cabina-licencas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor de licenças Premium da Cabina Musical (Mercado Pago)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
